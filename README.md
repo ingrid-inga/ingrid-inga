@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ingrid.</h1>
 <h3 align="center">Thanks for staying here!.</h3>
 
-<!--![141b1274509421 5c327575e2541](https://user-images.githubusercontent.com/75276647/126909116-04dce0a5-7efe-46cd-a08f-64258372ddc2.jpg)-->
+![Portada](https://user-images.githubusercontent.com/75276647/126918164-284d6285-3781-4652-8ebc-f8f4a699af71.png)
+
+
+
 
 
 - 📫 How to reach me **ingridinga10@gmail.com**
