@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ingrid.</h1>
 <h3 align="center">Thanks for staying here!.</h3>
 
-![Portada](https://user-images.githubusercontent.com/75276647/126918164-284d6285-3781-4652-8ebc-f8f4a699af71.png)
+![Portada](https://user-images.githubusercontent.com/75276647/126992594-c5bf38a8-af9a-433f-9727-fc1997e8c6aa.png)
+
 
 
 
